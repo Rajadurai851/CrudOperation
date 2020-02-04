@@ -1,0 +1,1 @@
+Insert into CCM(id,name)Values(101,'Raja');
